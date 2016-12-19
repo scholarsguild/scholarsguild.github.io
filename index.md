@@ -1,1 +1,1 @@
-[Test link](http://google.com)
+[Test link](/nav.md)
