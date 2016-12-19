@@ -1,1 +1,1 @@
-You all suck.
+[Test link.](/http://google.com)
