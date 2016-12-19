@@ -1,1 +1,1 @@
-[Test link](/nav.md)
+[Navigation](/nav.md)
